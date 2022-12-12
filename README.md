@@ -1,6 +1,6 @@
 <h1>ActiveDirectoryLab</h1>
 
-  #### [YouTube Demonstration] (https://youtu.be/7) 
+  #### [YouTube Demonstration](https://youtu.be/7) 
   
   <i>uploading soon</i>
   
